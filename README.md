@@ -2,6 +2,49 @@
 
 # ProjetoBuzzfeed
 
+---
+
+<div class="basicInfo" align="center">
+  
+  <div class="status" align="top">
+    <table align="space-between">
+      <tr>
+        <td>Status:</td> <td>Finalizado</td>
+      </tr>
+      <tr>
+        <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
+      </tr>
+      <tr>
+        <td>Orientadores:</td> <td><a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a></td>
+      </tr>
+      <tr>
+        <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
+      </tr>
+      <tr>
+        <td>Diretórios de referência:</td>  
+        <td>
+        		<ol> 
+	        		<li>  
+	        			<a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech">Bootcamp Potência Tech</a>
+	        		</li>  
+	        		<li>
+	        			<a href="https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone">ProjetoBuzzfeed</a> 
+	        		</li>
+        		</ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Deploy</td> <td><a href="https://github.com/Guilherme-Espinosa/angular-buzzfeed-quizz-clone/blob/main/src/assets/imgs/preview.png">BuzzFeed Quiz Clone - Github Pages</a></td>
+      </tr>
+      <tr>
+        <td>Links úteis</td> <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web">Mozilla Developer Network (MDN)</a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+  ---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ---
