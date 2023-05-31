@@ -1,10 +1,20 @@
+![Potencia-tech](./src/assets/imgs/preview.png "Potência Tech")
+
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+---
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+
+## Warning:
+In case your VS Code reports "build error", with the project open, Update NG ("ng update") and NPM ("npm update"), then type "ng serve" and then the project will run on localhost port 4200.
+
+---
 
 ## Code scaffolding
 
